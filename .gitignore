@@ -1,0 +1,11 @@
+# Compiled binary
+jonesforth
+jonesforth_test
+
+# Debug files
+gdb.txt
+*.core
+
+# Editor backups
+*~
+*.swp
